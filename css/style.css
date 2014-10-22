@@ -33,7 +33,7 @@ img{max-width:100%;}
 }
 body{
 	 font-family: 'bebasregular', 'Helvetica';
-	 background:#00B3E7;
+	 background:#003366;
 }
 /*---start-wrap----*/
 .wrap{
@@ -64,7 +64,7 @@ ul#countdown span {
 }
 ul#countdown h3{
 	color: #fff;
-	background: #666;
+	background: #0099CC;
 	padding: 10px;
 	margin-top: 1em;
 }
@@ -114,7 +114,7 @@ ul#countdown li p.timeRefSeconds {
 	 outline:none;
 }
 .notified input[type="submit"]{
-	background:#666;
+	background:#0099CC;
 	padding: 9px 41px;
 	border:none;
 	color:#FFF;
