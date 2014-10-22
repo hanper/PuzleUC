@@ -109,7 +109,7 @@ ul#countdown li p.timeRefSeconds {
 	padding:12px;
 	color:#888;
 	font-size:0.875em;
-	 font-family: 'bebasregular';
+	 font-family: 'bebasregular', 'Helvetica';
 	 border:none;
 	 outline:none;
 }
@@ -118,7 +118,7 @@ ul#countdown li p.timeRefSeconds {
 	padding: 9px 41px;
 	border:none;
 	color:#FFF;
-	 font-family: 'bebasregular';
+	 font-family: 'bebasregular', 'Helvetica';
 	 cursor:pointer;
 	 transition: 0.5s ease;
 	-o-transition: 0.5s ease;
